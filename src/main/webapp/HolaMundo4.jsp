@@ -15,9 +15,6 @@
      String apellido2 = (String) request.getAttribute("apellido2");
      
      out.println(nombre +" "+apellido1+" "+apellido2);
-     
-  
-     
      %>
      
      <br><br><br><br><br><br>
